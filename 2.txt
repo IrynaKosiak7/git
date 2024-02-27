@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   irina     998     997 pty0     11:04:11 /usr/bin/bash
+   irina     997       1 ?        11:04:11 /usr/bin/mintty
+   irina    1116     998 pty0     11:43:01 /usr/bin/ps
